@@ -1,0 +1,4 @@
+unica_innovare:
+    resource: "@UnicaInnovareBundle/Resources/config/routing.yml"
+    prefix:   /
+
